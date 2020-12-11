@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ankush Mishra</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Ankush.
+\n\nI love Coding.
+\n\nI like being a free bird, live life to the fullest and complete my bucket list which is quite adventurous.
+\nFun fact I think I am an old school type.
+\n\nI Sometime get too aggressive and sometimes I don\'t like that about me.
+\nI like to be with friends, hanging out and have fun.
+\nIt\'s weird for a programmer to be social but I like being.
+\n\nI consider my family, friends and job to be most important in life.
+\n\nI Work on a lot of things like various frameworks and like exploring the Tech World.
+\nAsk me about any tech help and I will try my best to help.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
